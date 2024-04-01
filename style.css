@@ -2,9 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+   font-family:'Oswald', sans-serif;
+}
 .cabecalho {
-    background-color: #25316D;
+    background-color: #A0153E;
     color: rgb(234, 231, 241);
     display: flex;
     justify-content: space-around;
@@ -28,7 +30,21 @@
 }
 
 .escola{
-    background-image: linear-gradient(#25316D,#97D2EC);
+    background-image: linear-gradient(#A0153E,#FF204E);
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
 }
