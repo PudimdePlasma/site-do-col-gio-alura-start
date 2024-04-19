@@ -6,7 +6,7 @@ body{
    font-family:'Oswald', sans-serif;
 }
 .cabecalho {
-    background-color: #6eb9a7;
+    background-color: #A34343;
     color: rgb(234, 231, 241);
     display: flex;
     justify-content: space-around;
@@ -30,7 +30,7 @@ body{
 }
 
 .escola{
-    background-image: linear-gradient(#6eb9a7,#75c5b1);
+    background-image: linear-gradient(#A34343,#75c5b1);
     color: white;
     display: flex;
     justify-content: center;
