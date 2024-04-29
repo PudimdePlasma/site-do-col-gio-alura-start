@@ -6,7 +6,7 @@ body{
    font-family:'Oswald', sans-serif;
 }
 .cabecalho {
-    background-color: #12486B;
+    background-color: #419197;
     color: rgb(234, 231, 241);
     display: flex;
     justify-content: space-around;
@@ -30,8 +30,8 @@ body{
 }
 
 .escola{
-    background-image: linear-gradient(#12486B,#419197);
-    color: white;
+    background-image: linear-gradient(#419197,#12486B);
+    color: #12486B;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,4 +62,8 @@ body{
 
 .rodape{
     background-color: #020202;
+}
+
+.rodape.imagem{
+    height: 60px;
 }
