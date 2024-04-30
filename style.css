@@ -51,6 +51,7 @@ body{
 .estudante-icone{
     width: 24px;
 }
+
 .estudante-div{
     text-align: center;
 }
@@ -67,6 +68,5 @@ body{
 
 .rodape.imagem{
     height: 60px;
-    padding: 12px 0;
-    
+    padding: 12px 0; 
 }
